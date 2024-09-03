@@ -49,8 +49,8 @@ Welcome to the setup guide for the Cybersecurity Lab Portfolio. This document pr
         2. ssh into docker vm through kali
         3. install portertainer as a docker container
         4. manage portainer through port 9449
-![Kali Linux Setup](images/docker.png)
-![Kali Linux Setup](images/portainer.png)
+![Portainer SSH install](images/portssh.png)
+![Portainer Web GUI](images/portweb.png)
   
 4. **Install Metasploitable 2**
    - **Purpose:**  A premade vulnerable machine to understand and exploiting common vulnerabilities.
@@ -59,5 +59,5 @@ Welcome to the setup guide for the Cybersecurity Lab Portfolio. This document pr
        2. ssh into proxmox, locate the vm files and add the iamge to the configuration files
        3. start the vm and finish configuration
        4. test the finished install from the Kali machine
-![Kali Linux Setup](images/ms2vm.png)
-![Kali Linux Setup](images/ms2test.png)
+![Metasploitable 2 VM install](images/ms2vm.png)
+![Metasploitable 2 Web Test](images/ms2test.png)
