@@ -1,6 +1,6 @@
 # Lab Setup Instructions
 
-Welcome to the setup guide for the Cybersecurity Lab Portfolio. This document provides instructions for configuring your lab environment with pfSense, Kali Linux, Docker, and Metasploitable 2.
+Welcome to the setup guide for the Cybersecurity Lab Portfolio.
 
 ## Table of Contents
 
