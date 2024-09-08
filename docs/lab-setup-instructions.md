@@ -1,6 +1,6 @@
 # Lab Setup Instructions
 
-Welcome to the setup guide for the Cybersecurity Lab Portfolio.
+Welcome to the setup guide for the Cybersecurity Lab.
 
 ## Table of Contents
 
